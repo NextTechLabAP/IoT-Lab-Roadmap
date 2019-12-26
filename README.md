@@ -65,11 +65,11 @@ Do read this [click here](https://www.survivingwithandroid.com/2016/08/iot-proto
 
 # Data Collection
 
--[Thingspeak API](https://thingspeak.com)
+- [Thingspeak API](https://thingspeak.com)
 
 # I2C Communication Protocol
 
--[Tutorial](http://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/)
+- [Tutorial](http://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/)
 
 **Note:** Once you have completed all the things stated above this means that you have covered **basics** of ***IoT*** and there's a lot to do going forward. It just that strong basics make everything look easier. 
 
