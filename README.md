@@ -1,8 +1,5 @@
 # IoT Lab Roadmap
 
-![IoT Ecosystem](https://www.sensorsexpo.com/sites/sensorsexpo/files/til_image/iotecosystem_icon_final_0.png)
-
-
 # Arduino
 
 Arduino is a microcontroller which runs on Embedded C and also very easy to use and make basic IoT Projects.
