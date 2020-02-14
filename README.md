@@ -2,7 +2,7 @@
 
 # Arduino
 
-Arduino is a microcontroller which runs on Embedded C and also very easy to use and make basic IoT Projects.
+Arduino is a single-board microcontroller which runs on Embedded C and is very easy to use and make basic IoT Projects.
 
 * [Jeremy Blum](https://www.youtube.com/watch?v=fCxzA9_kg6s&list=PLA567CE235D39FA84)
 * [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
@@ -14,7 +14,7 @@ Arduino is a microcontroller which runs on Embedded C and also very easy to use 
 # ESP #( 01, 8266, 32 )
 
 ***A Common Misconception:*** ESP32 is a successor of ESP
-8266 and NodeMcu is software that comes installed in a
+8266 and NodeMcu is firmware that comes installed in a
 ESP8266 and uses the Lua programming language but the
 ESP8266 that comes with NodeMcu can be reprogrammed via
 the Arduino IDE
@@ -31,6 +31,7 @@ the Arduino IDE
 - [Introduction](https://www.electronicwings.com/nodemcu/introduction-to-nodemcu)
 - [Tutorials](https://www.instructables.com/id/Programming-ESP8266-ESP-12E-NodeMCU-Using-Arduino-/)
 - [Pinout diagram](https://lastminuteengineers.com/esp8266-nodemcu-arduino-tutorial/)
+- [Web server](https://randomnerdtutorials.com/esp8266-web-server/) (Do this experiment after completing HTTP protocol)
 
 
 # Raspberry Pi
@@ -63,7 +64,7 @@ the Arduino IDE
 
 Do read this [click here](https://www.survivingwithandroid.com/2016/08/iot-protocols-list.html) 
 
-# Data Collection
+# Data Collection and Visualization
 
 - [Thingspeak API](https://thingspeak.com)
 
